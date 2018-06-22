@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme hee. -->
+    </style>
+
+  <style name="SpinnerTheme" parent="android:Widget.Spinner">
+    <item name="android:layout_margin">10dp</item>
+    <item name="android:paddingLeft">8dp</item>
+    <item name="android:paddingRight">20dp</item>
+    <item name="android:paddingTop">5dp</item>
+    <item name="android:paddingBottom">5dp</item>
+    <item name="android:popupBackground">#DFFFFFFF</item>
+    <item name="android:background">@mipmap/bg_spinner</item>
+  </style>
+
+
+
+
+</resources>
